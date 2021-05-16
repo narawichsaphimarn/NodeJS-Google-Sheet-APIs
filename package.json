@@ -1,0 +1,15 @@
+{
+  "name": "google-sheet-api",
+  "version": "1.0.0",
+  "description": "test google sheet api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Narawich Saphimarn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^73.0.0"
+  }
+}
